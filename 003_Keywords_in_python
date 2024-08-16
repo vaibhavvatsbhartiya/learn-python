@@ -1,0 +1,36 @@
+# All are the reserved keywords
+
+True
+False
+None
+and 
+or
+not 
+as
+assert
+class
+break
+continue
+return
+def 
+del
+if
+else
+elif
+except
+finally
+for
+while
+from
+global
+import
+in
+is 
+lambda
+nonlocal
+pass
+raise
+with 
+yield
+
+# may be possible i forget some so add them in future
