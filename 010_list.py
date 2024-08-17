@@ -40,8 +40,6 @@ print(VV)
 # functions in list
 # len(list): use to check the lenght of list. 
 # max(list): use to find the max element in list.
-# min(list): use to find the minimum element in list.
-# sum(list): use to typecast the sequence.
-# list(seq): use to get the total sum of all number available in list. 
-
-# my bad, actually there is an error while my server is live on render. I'll solve this soon and notify here. Sorry for the inconvenience.
+# min(list): use to find the minimum element in list
+# list(list): use to typecast the list sequence.
+# sum(seq): use to get the total sum of all number available in list.
