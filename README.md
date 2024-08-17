@@ -3,24 +3,25 @@ Here's a `README.md` file for your "learn-python" GitHub repository based on the
 ```markdown
 # Learn Python 🐍
 
-Welcome to the **Learn Python** repository! This repository is a collection of Python scripts and examples designed to help you learn and understand various Python programming concepts. Each file in this repository focuses on a specific topic, allowing you to gradually build up your Python skills.
+Welcome to the **Learn Python** repository! This repository is a collection of Python scripts and examples designed to help you learn and understand various Python programming concepts.
+Each file in this repository focuses on a specific topic, allowing you to gradually build up your Python skills.
 
 ## Table of Contents
 
-1. [Hello World](#1-hello-world)
-2. [Identifiers](#2-identifiers)
-3. [Reserved Keywords](#3-reserved-keywords)
-4. [Operators](#4-operators)
-5. [User Input](#5-user-input)
-6. [Conditional Statements](#6-conditional-statements)
-7. [Loops](#7-loops)
-8. [Break and Continue](#8-break-and-continue)
-9. [Strings](#9-strings)
-10. [Lists](#10-lists)
-11. [Tuples](#11-tuples)
-12. [Dictionaries](#12-dictionaries)
-13. [Functions](#13-functions)
-14. [File Handling](#14-file-handling)
+1. Hello World
+2. Identifiers
+3. Reserved Keywords
+4. Operators
+5. User Input
+6. Conditional Statements
+7. Loops
+8. Break and Continue
+9. Strings
+10. Lists
+11. Tuples
+12. Dictionaries
+13. Functions
+14. File Handling
 
 ## 1. Hello World
 
