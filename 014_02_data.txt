@@ -1,0 +1,27 @@
+Hello there,
+
+My self Vaibhav Vats and currently i'm preparing myself to work as SDE.
+
+There are many skills which i've currently.
+
+I can develop web applications using
+
+# FRONTEND applications
+HTML, CSS, JS
+REACT JS
+BOOTSTRAP
+TAILWIND CSS
+
+# BACKEND applications
+NODE JS
+EXPRESS JS
+PHP
+
+# DATABASE
+MONGO DATABASE
+
+and many more.
+
+# Programming languages:
+Core Java
+Python
