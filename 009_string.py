@@ -8,7 +8,7 @@ for v in v2:
 print(v2[0::1]) # syntax: string[start: sotp: step] 
 
 
-# different type of functions i python
+# different type of methods i python
 
 print(v2.isalpha()) # check string has only alphabets or not
 
