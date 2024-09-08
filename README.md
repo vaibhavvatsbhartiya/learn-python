@@ -6,7 +6,7 @@ Here's a `README.md` file for your "learn-python" GitHub repository based on the
 Welcome to the **Learn Python** repository! This repository is a collection of Python scripts and examples designed to help you learn and understand various Python programming concepts.
 Each file in this repository focuses on a specific topic, allowing you to gradually build up your Python skills.
 
-## Table of Contents
+## Table of Contents of random learning
 
 1. Hello World
 2. Identifiers
