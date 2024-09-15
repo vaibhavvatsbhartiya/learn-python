@@ -1,6 +1,3 @@
-Here's a `README.md` file for your "learn-python" GitHub repository based on the provided screenshot:
-
-```markdown
 # Learn Python 🐍
 
 Welcome to the **Learn Python** repository! This repository is a collection of Python scripts and examples designed to help you learn and understand various Python programming concepts.
