@@ -45,3 +45,6 @@ sort()
 <!-- Dictionary -->
 
 dict = {"Dev":0,"Sa":2,"Samrat":1}
+
+<!-- Function -->
+![all_about_function](./02_function/function.png)
