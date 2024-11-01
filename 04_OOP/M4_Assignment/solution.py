@@ -53,7 +53,14 @@ class Ebook(Book):
     def __str__(self):
         return f"Ebook: {self._title}, Author: {self._author}, Publisher: {self._publisher}, Price: {self._price}, Format: {self.ebook_format}"
 
-# Example usage
+# book
+
+book1 = Book("Python Programming", "John Doe", "Tech Books", 500)
+print(book1)
+print(f"Royalty for selling 600 copies: Rs.{book1.calculate_royalty(600):.2f}")
+
+
+# ebook
 ebook1 = Ebook("Python Programming", "Jane Doe", "Tech Books", 500, "PDF")
 
 # Print ebook info
